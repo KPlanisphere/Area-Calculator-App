@@ -2,7 +2,6 @@
 
 An Android application designed to calculate the area of various geometric shapes. This project leverages modern Android development practices, written in Kotlin, and aims to provide a robust and user-friendly experience.
 
-
 ## Features
 
 ### Area Calculation
@@ -19,6 +18,10 @@ An Android application designed to calculate the area of various geometric shape
 -   **User-Friendly Interface**: Intuitive input fields and clear results display.
 -   **Kotlin**: Written in Kotlin, ensuring a smooth and efficient user experience.
 -   **Dynamic Layout**: Interface components change dynamically based on the selected shape.
+
+<p align= "center">
+    <img src="https://github.com/KPlanisphere/Area-Calculator-App/assets/60454942/420e0920-467b-494a-8fe3-c9622683721b" style="width: 30%; height: auto;">
+</p>
 
 ## Project Structure
 
